@@ -1,0 +1,2548 @@
+Page 1 
+First Session, Forty-fourth Parliament,
+70-71 Elizabeth II – 1 Charles III, 2021-2022-2023
+STATUTES OF CANADA 2023
+CHAPTER 8
+An Act to amend the Broadcasting Act and to
+make related and consequential
+amendments to other Acts
+ASSENTED TO
+APRIL 27, 2023
+BILL C-11
+
+Page 2 
+SUMMARY
+This enactment amends the Broadcasting Act to, among other
+things,
+(a) add online undertakings — undertakings for the transmis-
+sion or retransmission of programs over the Internet — as a
+distinct class of broadcasting undertakings;
+(b) specify that the Act does not apply in respect of programs
+uploaded to an online undertaking that provides a social me-
+dia service by a user of the service, unless the programs are
+prescribed by regulation;
+(c) update the broadcasting policy for Canada set out in sec-
+tion 3 of the Act by, among other things, providing that the
+Canadian broadcasting system should
+(i) serve the needs and interests of all Canadians, includ-
+ing Canadians from Black or other racialized communities
+and Canadians of diverse ethnocultural backgrounds,
+socio-economic statuses, abilities and disabilities, sexual
+orientations, gender identities and expressions, and ages,
+and
+(ii) provide opportunities to Indigenous persons, pro-
+gramming that reflects Indigenous cultures and that is in
+Indigenous languages, and programming that is accessi-
+ble without barriers to persons with disabilities;
+(d) enhance the vitality of official language minority commu-
+nities in Canada and foster the full recognition and use of
+both English and French in Canadian society, including by
+supporting the production and broadcasting of original pro-
+grams in both languages;
+(e) specify that the Canadian Radio-television and Telecom-
+munications Commission (the “Commission”) must regulate
+and supervise the Canadian broadcasting system in a manner
+that
+(i) takes into account the different characteristics of En-
+glish, French and Indigenous language broadcasting and
+the different conditions under which broadcasting under-
+takings that provide English, French or Indigenous lan-
+guage programming operate,
+(ii) takes into account, among other things, the nature and
+diversity of the services provided by broadcasting under-
+takings,
+(iii) ensures that any broadcasting undertaking that can-
+not make maximum or predominant use of Canadian cre-
+ative and other human resources in the creation, produc-
+tion and presentation of programming contributes to
+those Canadian resources in an equitable manner,
+(iv) promotes innovation and is readily adaptable to sci-
+entific and technological change,
+(v) facilitates the provision to Canadians of Canadian pro-
+grams in both official languages, including those created
+and produced by official language minority communities
+Available on the House of Commons website at the following address:
+www.ourcommons.ca
+2021-2022-2023
+
+Page 3 
+in Canada, as well as Canadian programs in Indigenous
+languages,
+(vi) facilitates the provision of programs that are accessi-
+ble without barriers to persons with disabilities,
+(vii) facilitates the provision to Canadians of programs
+created and produced by members of Black or other
+racialized communities,
+(viii) protects the privacy of individuals who are members
+of the audience of programs broadcast, and
+(ix) takes into account the variety of broadcasting under-
+takings to which the Act applies and avoids imposing obli-
+gations on any class of broadcasting undertakings if that
+imposition will not contribute in a material manner to the
+implementation of the broadcasting policy;
+(f) amend the procedure relating to the issuance by the Gov-
+ernor in Council of policy directions to the Commission;
+(g) replace the Commission’s power to impose conditions on
+a licence with a power to make orders imposing conditions
+on the carrying on of broadcasting undertakings;
+(h) provide the Commission with the power to require that
+persons carrying on broadcasting undertakings make expen-
+ditures to support the Canadian broadcasting system;
+(i) authorize the Commission to provide information to the
+Minister responsible for that Act, the Chief Statistician of
+Canada and the Commissioner of Competition, and set out in
+that Act a process by which a person who submits certain
+types of information to the Commission may designate the
+information as confidential;
+(j) amend the procedure by which the Governor in Council
+may, under section 28 of that Act, set aside a decision of the
+Commission to issue, amend or renew a licence or refer such
+a decision back to the Commission for reconsideration and
+hearing;
+(k) specify that a person shall not carry on a broadcasting
+undertaking, other than an online undertaking, unless they do
+so in accordance with a licence or they are exempt from the
+requirement to hold a licence;
+(l) harmonize the punishments for offences under Part II of
+that Act and clarify that a due diligence defence applies to the
+existing offences set out in that Act; and
+(m) allow for the imposition of administrative monetary
+penalties for violations of certain provisions of that Act or of
+the Accessible Canada Act.
+The enactment also makes related and consequential amend-
+ments to other Acts.
+2021-2022-2023
+Chapter 8: Online Streaming Act
+SUMMARY
+
+Page 4 
+
+Page 5 
+70-71 ELIZABETH II – 1 CHARLES III
+CHAPTER 8
+An Act to amend the Broadcasting Act and to make
+related and consequential amendments to other Acts
+[Assented to 27th April, 2023]
+His Majesty, by and with the advice and consent of
+the Senate and House of Commons of Canada,
+enacts as follows:
+Short Title
+Short title
+1 This Act may be cited as the Online Streaming Act.
+1991, c. 11
+Broadcasting Act
+2 (1) The definitions broadcasting, broadcasting
+undertaking, distribution undertaking, network and
+programming undertaking in subsection 2(1) of the
+Broadcasting Act are respectively replaced by
+the following:
+broadcasting means any transmission of programs —
+regardless of whether the transmission is scheduled or on
+demand or whether the programs are encrypted or not —
+by radio waves or other means of telecommunication for
+reception by the public by means of broadcasting receiv-
+ing apparatus, but does not include any such transmis-
+sion of programs that is made solely for performance or
+display in a public place; (radiodiffusion)
+broadcasting undertaking includes a distribution un-
+dertaking, an online undertaking, a programming under-
+taking and a network; (entreprise de radiodiffusion)
+distribution undertaking means an undertaking for the
+reception of broadcasting and its retransmission by radio
+waves or other means of telecommunication to more
+than one permanent or temporary residence or dwelling
+unit or to another such undertaking, but does not include
+such an undertaking that is an online undertaking; (en-
+treprise de distribution)
+2021-2022-2023
+
+Page 6 
+network includes any operation where control over all
+or any part of the programs or program schedules of one
+or more broadcasting undertakings is delegated to anoth-
+er undertaking or person, but does not include such an
+operation that is an online undertaking; (réseau)
+programming undertaking means an undertaking for
+the transmission of programs, either directly by radio
+waves or other means of telecommunication or indirectly
+through a distribution undertaking, for reception by the
+public by means of broadcasting receiving apparatus, but
+does not include such an undertaking that is an online
+undertaking; (entreprise de programmation)
+(2) Subsection 2(1) of the Act is amended by
+adding the following in alphabetical order:
+affiliate, in relation to any person, means any other per-
+son who controls that first person, or who is controlled
+by that first person or by a third person who also controls
+the first person; (affilié)
+barrier has the same meaning as in section 2 of the Ac-
+cessible Canada Act; (obstacle)
+community element includes the element of the Cana-
+dian broadcasting system as part of which members of a
+community participate in the production of programs
+that are in a language used in the community including a
+not-for-profit broadcasting undertaking that is managed
+by a board of directors elected by the community; (élé-
+ment communautaire)
+control, in the definition affiliate, in paragraph 9.1(1)(m)
+and in subparagraph 9.1(1)(n)(i), includes control in fact,
+whether or not through one or more persons; (contrôle)
+decision includes a determination made by the Com-
+mission in any form; (décision)
+Indigenous peoples has the meaning assigned by the
+definition aboriginal peoples of Canada in subsection
+35(2) of the Constitution Act, 1982; (peuples autoch-
+tones)
+official language minority community means English-
+speaking communities in Quebec and French-speaking
+communities outside Quebec; (communauté de langue
+officielle en situation minoritaire)
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+2
+
+Page 7 
+online undertaking means an undertaking for the
+transmission or retransmission of programs over the In-
+ternet for reception by the public by means of broadcast-
+ing receiving apparatus; (entreprise en ligne)
+programming control means control over the selection
+of programs for transmission, but does not include con-
+trol over the selection of a programming service for re-
+transmission; (contrôle de la programmation)
+(3) Subsection 2(3) of the Act is replaced by the
+following:
+Exclusion — carrying on broadcasting undertaking
+(2.1) A person who uses a social media service to upload
+programs for transmission over the Internet and recep-
+tion by other users of the service — and who is not the
+provider of the service or the provider’s affiliate, or the
+agent or mandatary of either of them — does not, by the
+fact of that use, carry on a broadcasting undertaking for
+the purposes of this Act.
+Exclusion — social media service and programming
+control
+(2.2) An online undertaking that provides a social media
+service does not, for the purposes of this Act, exercise
+programming control over programs uploaded by a user
+of the service who is not the provider of the service or the
+provider’s affiliate, or the agent or mandatary of either of
+them.
+Exclusion — certain transmissions over the Internet
+(2.3) A person does not carry on an online undertaking
+for the purposes of this Act in respect of a transmission
+of programs over the Internet
+(a) that is ancillary to a business not primarily en-
+gaged in the transmission of programs to the public
+and that is intended to provide clients with informa-
+tion or services directly related to that business;
+(b) that is part of the operations of a primary or sec-
+ondary school, a college, university or other institution
+of higher learning, a public library or a museum; or
+(c) that is part of the operations of a theatre, concert
+hall or other venue for the presentation of live per-
+forming arts.
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+2
+
+Page 8 
+Interpretation
+(3) This Act shall be construed and applied in a manner
+that is consistent with
+(a) the freedom of expression and journalistic, cre-
+ative and programming independence enjoyed by
+broadcasting undertakings and creators;
+(b) the right to privacy of individuals; and
+(c) the commitment of the Government of Canada to
+enhance the vitality of official language minority com-
+munities and to support and assist their development,
+as well as to foster the full recognition and use of both
+English and French in Canadian society.
+3 (1) Paragraph 3(1)(a) of the Act is replaced by
+the following:
+(a) the Canadian broadcasting system shall be effec-
+tively owned and controlled by Canadians, and it is
+recognized that it includes foreign broadcasting un-
+dertakings that provide programming to Canadians;
+(a.1) each broadcasting undertaking shall contribute
+to the implementation of the objectives of the broad-
+casting policy set out in this subsection in a manner
+that is appropriate in consideration of the nature of
+the services provided by the undertaking;
+(2) Paragraph 3(1)(c) of the Act is replaced by the
+following:
+(c) while sharing common aspects, English and
+French language broadcasting operate under different
+conditions — in particular, the minority context of
+French in North America — and may have different re-
+quirements;
+(2.1) Subparagraph 3(1)(d)(ii) of the Act is re-
+placed by the following:
+(ii) encourage the development of Canadian ex-
+pression by providing a wide range of programming
+that reflects Canadian attitudes, opinions, ideas,
+values and artistic creativity, by displaying Canadi-
+an talent in entertainment programming and by of-
+fering information and analysis concerning Canada
+and other countries from a Canadian point of view,
+and foster an environment that encourages the
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 2-3
+
+Page 9 
+development and export of Canadian programs
+globally,
+(3) Subparagraphs 3(1)(d)(iii) and (iv) of the Act
+are replaced by the following:
+(iii) through its programming and the employment
+opportunities arising out of its operations, serve the
+needs and interests of all Canadians — including
+Canadians from Black or other racialized communi-
+ties and Canadians of diverse ethnocultural back-
+grounds, socio-economic statuses, abilities and dis-
+abilities, sexual orientations, gender identities and
+expressions, and ages — and reflect their circum-
+stances and aspirations, including equal rights, the
+linguistic duality and multicultural and multiracial
+nature of Canadian society and the special place of
+Indigenous peoples and languages within that soci-
+ety,
+(iii.1) provide opportunities to Indigenous persons
+to produce programming in Indigenous languages,
+English or French, or in any combination of them,
+and to carry on broadcasting undertakings,
+(iii.11) provide opportunities to Black and other
+racialized persons in Canada by taking into account
+their specific needs and interests, namely, by sup-
+porting the production and broadcasting of original
+programs by and for Black and other racialized
+communities,
+(iii.2) support the production and broadcasting of
+original French language programs,
+(iii.3) enhance the vitality of official language mi-
+nority communities in Canada and support and as-
+sist their development by taking into account their
+specific needs and interests, including through sup-
+porting the production and broadcasting of original
+programs by and for those communities,
+(iii.4) support community broadcasting that re-
+flects both the diversity of the communities being
+served, including with respect to the languages in
+use within those communities and to their ethno-
+cultural and Indigenous composition, and the high
+engagement and involvement in community broad-
+casting by members of those communities, includ-
+ing with respect to matters of public concern,
+(iii.5) ensure that Canadian independent broad-
+casting undertakings continue to be able to play a
+vital role within that system,
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+3
+
+Page 10 
+(iii.6) support the production and broadcasting of
+programs in a diversity of languages that reflect
+Black and other racialized communities and the di-
+versity of the ethnocultural composition of Canadi-
+an society, including through broadcasting under-
+takings that are carried on by Canadians from Black
+or other racialized communities and diverse ethno-
+cultural backgrounds,
+(iii.7) provide opportunities to Canadians from
+Black or other racialized communities and diverse
+ethnocultural backgrounds to produce and broad-
+cast programs by and for those communities,
+(iv) promote innovation and be readily adaptable
+to scientific and technological change,
+(v) reflect and be responsive to the preferences and
+interests of various audiences, and
+(vi) ensure freedom of expression and journalistic
+independence;
+(4) Paragraphs 3(1)(f) to (h) of the Act are re-
+placed by the following:
+(f) each Canadian broadcasting undertaking shall em-
+ploy and make maximum use, and in no case less than
+predominant use, of Canadian creative and other hu-
+man resources in the creation, production and presen-
+tation of programming, unless the nature of the ser-
+vice provided by the undertaking, such as specialized
+content or format or the use of languages other than
+French and English, renders that use impracticable, in
+which case the undertaking shall make the greatest
+practicable use of those resources;
+(f.1) each foreign online undertaking shall make the
+greatest practicable use of Canadian creative and other
+human resources, and shall contribute in an equitable
+manner to strongly support the creation, production
+and presentation of Canadian programming, taking
+into account the linguistic duality of the market they
+serve;
+(g) the programming over which a person who carries
+on a broadcasting undertaking has programming con-
+trol should be of high standard;
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+3
+
+Page 11 
+(h) all persons who carry on broadcasting undertak-
+ings have a responsibility for the programs that they
+broadcast and over which they have programming
+control;
+(5) Subparagraphs 3(1)(i)(i) and (ii) of the Act are
+replaced by the following:
+(i) be varied and comprehensive, providing a bal-
+ance of information, enlightenment and entertain-
+ment for people of all ages, interests and tastes,
+(i.1) reflect and support Canada’s linguistic duality
+by placing significant importance on the creation,
+production and broadcasting of original French lan-
+guage programs, including those from French lin-
+guistic minority communities,
+(ii) be drawn from local, regional, national and in-
+ternational sources, including, at the local level,
+from community broadcasters who, through collab-
+oration with local organizations and community
+members, are in the unique position of being able
+to provide varied programming to meet the needs
+of specific audiences,
+(ii.1) include programs produced by Canadians
+that cover news and current events — from the local
+and regional to the national and international —
+and that reflect the viewpoints of Canadians, in-
+cluding the viewpoints of Indigenous persons and
+of Canadians from Black or other racialized com-
+munities and diverse ethnocultural backgrounds,
+(ii.2) reflect the importance of Indigenous lan-
+guage revitalization by supporting the production
+and broadcasting of Indigenous language program-
+ming, in accordance with the United Nations Decla-
+ration on the Rights of Indigenous Peoples and in
+response to the Truth and Reconciliation Commis-
+sion of Canada’s Calls to Action,
+(5.1) Subparagraph 3(1)(i)(iv) of the Act is re-
+placed by the following:
+(iv) provide a reasonable opportunity for the public
+to be exposed to the expression of differing views
+on matters of public concern and to directly partici-
+pate in public dialogue on those matters including
+through the community element, and
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+3
+
+Page 12 
+(6) Paragraphs 3(1)(k) and (l) of the Act are re-
+placed by the following:
+(k) a range of broadcasting services in English and in
+French shall be extended to all Canadians;
+(l) the Canadian Broadcasting Corporation, as the na-
+tional public broadcaster, should provide broadcasting
+services incorporating a wide range of programming
+that informs, enlightens and entertains;
+(6.1) Subparagraph 3(1)(m)(iv) of the Act is re-
+placed by the following:
+(iv) be in English and in French, reflecting the dif-
+ferent needs and circumstances of each official lan-
+guage community, including the specific needs and
+interests of official language minority communities,
+(7) Paragraphs 3(1)(o) to (s) of the Act are re-
+placed by the following:
+(o) programming that reflects the Indigenous cultures
+of Canada and programming that is in Indigenous lan-
+guages should be provided — including through
+broadcasting undertakings that are carried on by In-
+digenous persons — within community elements,
+which are positioned to serve smaller and remote
+communities, and other elements of the Canadian
+broadcasting system in order to serve Indigenous peo-
+ples where they live;
+(p) programming that is accessible without barriers to
+persons with disabilities should be provided within the
+Canadian broadcasting system, including through
+community broadcasting, as well as the opportunity
+for them to develop their own content and voices;
+(p.1) programming that is accessible without barriers
+to persons with disabilities should be provided within
+the Canadian broadcasting system, including without
+limitation, closed captioning services and described
+video services available to assist persons living with a
+visual or auditory impairment;
+(q) online undertakings that provide the program-
+ming services of other broadcasting undertakings
+should
+(i) ensure the discoverability of Canadian program-
+ming services and original Canadian programs, in-
+cluding original French language programs, in an
+equitable proportion,
+(ii) when programming services are supplied to
+them by other broadcasting undertakings under
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+3
+
+Page 13 
+contractual 
+arrangements, 
+provide 
+reasonable
+terms for the carriage, packaging and retailing of
+those programming services, and
+(iii) ensure the delivery of programming at afford-
+able rates;
+(r) online undertakings shall clearly promote and rec-
+ommend Canadian programming, in both official lan-
+guages as well as in Indigenous languages, and ensure
+that any means of control of the programming gener-
+ates results allowing its discovery;
+(s) the programming provided by the community ele-
+ment should
+(i) be innovative and complementary to the pro-
+gramming provided for mass audiences,
+(ii) cater to tastes and interests not adequately pro-
+vided for by the programming provided for mass
+audiences and include programs devoted to culture,
+politics, history, health and public safety, local
+news and current events, local economy and the
+arts,
+(iii) reflect Canada’s communities, regions, Indige-
+nous and multicultural nature, including through
+third-language programming,
+(iv) support new and emerging Canadian creative
+talent, as a cost-effective venue for learning new
+skills, taking risks and exchanging ideas,
+(v) through community participation, strengthen
+the democratic process and support local journal-
+ism, and
+(vi) be available throughout Canada so that all
+Canadians can engage in dialogue on matters of
+public concern; and
+4 The Act is amended by adding the following af-
+ter section 4:
+Non-application — programs on social media service
+4.1 (1) This Act does not apply in respect of a program
+that is uploaded to an online undertaking that provides a
+social media service by a user of the service for transmis-
+sion over the Internet and reception by other users of the
+service.
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 3-4
+
+Page 14 
+Application — certain programs
+(2) Despite subsection (1), this Act applies in respect of a
+program that is uploaded as described in that subsection
+if the program
+(a) is uploaded to the social media service by the
+provider of the service or the provider’s affiliate, or by
+the agent or mandatary of either of them; or
+(b) is prescribed by regulations made under sec-
+tion 4.2.
+Non-application — social media service
+(3) This Act does not apply in respect of online undertak-
+ings whose broadcasting consists only of programs in re-
+spect of which this Act does not apply under this section.
+For greater certainty
+(4) For greater certainty, this section does not exclude
+the application of this Act in respect of a program that,
+except for the fact that it is not uploaded as described in
+subsection (1), is the same as a program in respect of
+which this Act does not apply under this section.
+Regulations — programs to which this Act applies
+4.2 (1) For the purposes of paragraph 4.1(2)(b), the
+Commission may make regulations prescribing programs
+in respect of which this Act applies, in a manner that is
+consistent with freedom of expression.
+Matters
+(2) In making regulations under subsection (1), the Com-
+mission shall consider the following matters:
+(a) the extent to which a program, uploaded to an on-
+line undertaking that provides a social media service,
+directly or indirectly generates revenues;
+(b) the fact that such a program has been broadcast,
+in whole or in part, by a broadcasting undertaking that
+(i) is required to be carried on under a licence, or
+(ii) is required to be registered with the Commis-
+sion but does not provide a social media service;
+and
+(c) the fact that such a program has been assigned a
+unique identifier under an international standards
+system.
+Exclusion
+(3) The regulations shall not prescribe a program
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+4
+
+Page 15 
+(a) in respect of which neither the user of a social me-
+dia service who uploads the program nor the owner or
+licensee of copyright in the program receives rev-
+enues; or
+(b) that consists only of visual images.
+5 (1) Paragraph 5(2)(a) of the Act is replaced by
+the following:
+(a) takes into account the different characteristics of
+English, French and Indigenous language broadcast-
+ing and the different conditions under which broad-
+casting undertakings that provide English, French or
+Indigenous language programming operate — includ-
+ing the minority context of French in North America
+— and the specific needs and interests of official lan-
+guage minority communities in Canada and of Indige-
+nous peoples;
+(a.1) takes into account the nature and diversity of the
+services provided by broadcasting undertakings, as
+well as their size, their impact on the Canadian cre-
+ation and production industry, particularly with re-
+spect to employment in Canada and Canadian pro-
+gramming, their contribution to the implementation
+of the broadcasting policy set out in subsection 3(1)
+and any other characteristic that may be relevant in
+the circumstances;
+(a.2) ensures that any broadcasting undertaking that
+cannot make maximum or predominant use of Cana-
+dian creative and other human resources in the cre-
+ation, production and presentation of programming
+contributes to those Canadian resources in an equi-
+table manner;
+(1.1) Paragraph 5(2)(c) of the Act is replaced by
+the following:
+(c) promotes innovation and is readily adaptable to
+scientific and technological change;
+(2) Paragraph 5(2)(e) of the Act is replaced by the
+following:
+(e) facilitates the provision to Canadians of Canadian
+programs created and produced in both official lan-
+guages, including those created and produced by offi-
+cial language minority communities in Canada, as well
+as in Indigenous languages;
+(e.1) facilitates the provision of programs that are ac-
+cessible without barriers to persons with disabilities;
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 4-5
+
+Page 16 
+(e.2) facilitates the provision to Canadians of pro-
+grams created and produced by members of Black or
+other racialized communities;
+(3) Subsection 5(2) of the Act is amended by strik-
+ing out “and” at the end of paragraph (f) and by
+adding the following after paragraph (g):
+(g.1) protects the privacy of individuals who are
+members of the audience for programs broadcast by
+broadcasting undertakings; and
+(h) takes into account the variety of broadcasting un-
+dertakings to which this Act applies and avoids impos-
+ing obligations on any class of broadcasting undertak-
+ings if that imposition will not contribute in a material
+manner to the implementation of the broadcasting
+policy set out in subsection 3(1).
+6 The Act is amended by adding the following af-
+ter section 5:
+Official language minority communities
+5.1 In regulating and supervising the Canadian broad-
+casting system and exercising its powers under this Act,
+the Commission shall enhance the vitality of official lan-
+guage minority communities in Canada and support and
+assist their development.
+Consultation
+5.2 (1) The Commission shall consult with official lan-
+guage minority communities in Canada when making de-
+cisions that could adversely affect them.
+Objectives of consultations
+(2) When engaging in consultations required by subsec-
+tion (1), the Commission shall
+(a) gather information to test its policies, decisions
+and initiatives;
+(b) propose policies, decisions and initiatives that
+have not been finalized;
+(c) seek the communities’ opinions with regard to the
+policies, decisions or initiatives that are the subject of
+the consultations;
+(d) provide them with all relevant information on
+which those policies, decisions or initiatives are based;
+(e) openly and meaningfully consider those opinions;
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 5-6
+
+Page 17 
+(f) be prepared to alter those policies, decisions or ini-
+tiatives; and
+(g) provide the communities with feedback, both dur-
+ing the consultation process and after a decision has
+been made.
+7 (1) Subsections 8(2) and (3) of the Act are re-
+placed by the following:
+Representations
+(2) The Minister shall
+(a) specify in the notice the period — of at least 30
+days from the day on which the notice was published
+under paragraph (1)(a) — during which interested
+persons may make representations; and
+(b) publish the representations that are made during
+that period.
+Implementation of proposal
+(3) The Governor in Council may, after the period re-
+ferred to in paragraph (2)(a) has ended and the proposed
+order has been laid before each House of Parliament, im-
+plement the proposal by making an order under section
+7, either in the form proposed or revised in the manner
+that the Governor in Council considers appropriate.
+(2) Subsection 8(5) of the Act is repealed.
+8 (1) Paragraphs 9(1)(a) to (h) of the Act are re-
+placed by the following:
+(a) establish classes of licences other than for online
+undertakings;
+(b) issue a licence, the term of which may be indefi-
+nite or fixed by the Commission;
+(c) amend a licence as to its term, on the application
+of the licensee;
+(d) amend a licence other than as to its term, on the
+application of the licensee or on the Commission’s
+own motion;
+(e) renew a licence, the term of which may be indefi-
+nite or fixed by the Commission; and
+(f) suspend or revoke a licence.
+1994, c. 26, s. 10(F)
+(2) Subsections 9(2) to (4) of the Act are replaced
+by the following:
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 6-8
+
+Page 18 
+Exemptions
+(4) The Commission shall, by order, on the terms and
+conditions that it considers appropriate, exempt persons
+who carry on broadcasting undertakings of any class
+specified in the order from any or all of the requirements
+of this Part, of an order made under section 9.1 or of a
+regulation made under this Part if the Commission is sat-
+isfied that compliance with those requirements will not
+contribute in a material manner to the implementation of
+the broadcasting policy set out in subsection 3(1).
+Repeal or amendment
+(5) The Commission shall repeal or amend an exemption
+order made under subsection (4) if the Commission con-
+siders that doing so will contribute in a material manner
+to the implementation of the broadcasting policy set out
+in subsection 3(1).
+9 The Act is amended by adding the following af-
+ter section 9:
+Conditions
+9.1 (1) The Commission may, in furtherance of its ob-
+jects, make orders imposing conditions on the carrying
+on of broadcasting undertakings that the Commission
+considers appropriate for the implementation of the
+broadcasting policy set out in subsection 3(1), including
+conditions respecting
+(a) the proportion of programs to be broadcast that
+shall be Canadian programs and the proportion of
+time that shall be devoted to the broadcasting of Cana-
+dian programs;
+(b) the proportion of Canadian programs to be broad-
+cast that shall be original French language programs,
+including first-run programs;
+(c) the proportion of programs to be broadcast that
+shall be original French language programs;
+(d) the proportion of programs to be broadcast that
+shall be devoted to specific genres, in order to ensure
+the diversity of programming;
+(e) the presentation of programs and programming
+services for selection by the public, including the
+showcasing and the discoverability of Canadian pro-
+grams and programming services, such as original
+French language programs;
+(f) a requirement for a person carrying on a broad-
+casting undertaking, other than an online undertak-
+ing, to obtain the approval of the Commission before
+entering into any contract with a telecommunica-
+tions 
+common 
+carrier, 
+as 
+defined 
+in 
+the
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 8-9
+
+Page 19 
+Telecommunications Act, for the distribution of pro-
+gramming directly to the public;
+(g) a requirement for a person carrying on a distribu-
+tion undertaking to give priority to the carriage of
+broadcasting;
+(h) a requirement for a person carrying on a distribu-
+tion undertaking to carry, on the terms and conditions
+that the Commission considers appropriate, program-
+ming services, specified by the Commission, that are
+provided by a broadcasting undertaking;
+(i) a requirement, without terms or conditions, for a
+person carrying on an online undertaking that pro-
+vides the programming services of other broadcasting
+undertakings in a manner that is similar to a distribu-
+tion undertaking to carry programming services, spec-
+ified by the Commission, that are provided by a broad-
+casting undertaking;
+(j) terms and conditions of service in contracts be-
+tween distribution undertakings and their subscribers;
+(k) access by persons with disabilities to program-
+ming, including the identification, prevention and re-
+moval of barriers to such access;
+(l) the carriage of emergency messages;
+(m) any change in the ownership or control of a
+broadcasting undertaking that is required to be car-
+ried on under a licence;
+(n) the provision to the Commission, by licensees or
+persons exempt from the requirement to hold a li-
+cence under an order made under subsection 9(4), of
+information related to
+(i) the ownership, governance and control of those
+licensees or exempt persons, and
+(ii) the affiliation of those licensees or exempt per-
+sons with any affiliates carrying on broadcasting
+undertakings;
+(o) the provision to the Commission, by persons car-
+rying on broadcasting undertakings, of any other in-
+formation that the Commission considers necessary
+for the administration of this Act, including
+(i) financial or commercial information,
+(ii) information related to programming,
+(iii) information related to expenditures made un-
+der section 11.1, and
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+9
+
+Page 20 
+(iv) information related to audience measurement,
+other than information that could identify any indi-
+vidual audience member; and
+(p) continued ownership and control by Canadians of
+Canadian broadcasting undertakings.
+Application
+(2) An order made under this section may be made ap-
+plicable to all persons carrying on broadcasting under-
+takings, to all persons carrying on broadcasting under-
+takings of any class established by the Commission in the
+order or to a particular person carrying on a broadcasting
+undertaking.
+Non-application
+(3) The Statutory Instruments Act does not apply to or-
+ders made under this section.
+Publication and representations
+(4) A copy of each order that the Commission proposes
+to make under this section shall be published on the
+Commission’s website and a reasonable opportunity shall
+be given to persons carrying on broadcasting undertak-
+ings and other interested persons to make representa-
+tions to the Commission with respect to the proposed or-
+der.
+Publication
+(5) The Commission shall publish each order that is
+made under this section on its website.
+Programming control
+(6) Orders made under any of paragraphs (1)(a) to (d)
+apply only in respect of programs over which a person
+who carries on a broadcasting undertaking has program-
+ming control.
+Canadian original French language programs
+(7) In making an order under paragraph (1)(c), the Com-
+mission shall ensure that Canadian original French lan-
+guage programs represent a significant proportion of the
+original French language programs to be broadcast.
+Restriction — computer algorithm or source code
+(8) The Commission shall not make an order under para-
+graph (1)(e) that would require the use of a specific com-
+puter algorithm or source code.
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+9
+
+Page 21 
+Good faith negotiation
+(9) The person carrying on an online undertaking to
+whom an order made under paragraph (1)(i) applies and
+the person carrying on the broadcasting undertaking
+whose programming services are specified in the order
+shall negotiate the terms for the carriage of the program-
+ming services in good faith.
+Facilitation
+(10) The Commission may facilitate those negotiations
+at the request of either party to the negotiations.
+10 (1) The portion of subsection 10(1) of the
+French version of the Act before paragraph (a) is
+replaced by the following:
+Règlements
+10 (1) Dans l’exécution de sa mission, le Conseil peut
+prendre des règlements :
+(2) Paragraph 10(1)(a) of the Act is repealed.
+(3) Paragraph 10(1)(b) of the French version of
+the Act is replaced by the following:
+b) définissant « émission canadienne » pour l’applica-
+tion de la présente loi;
+(4) Paragraph 10(1)(c) of the Act is replaced by
+the following:
+(c) respecting standards for programs over which a
+person carrying on a broadcasting undertaking has
+programming control and the allocation of broadcast-
+ing time, for the purpose of giving effect to the broad-
+casting policy set out in subsection 3(1);
+(5) Paragraph 10(1)(d) of the French version of
+the Act is replaced by the following:
+d) concernant la nature de la publicité et le temps
+d’antenne qui peut y être consacré;
+(6) Paragraph 10(1)(e) of the Act is replaced by
+the following:
+(e) respecting, in relation to a broadcasting undertak-
+ing other than an online undertaking, the proportion
+of time that may be devoted to the broadcasting of
+programs, including advertisements or announce-
+ments, of a partisan political character and the assign-
+ment of that time on an equitable basis to political
+parties and candidates;
+(7) Paragraphs 10(1)(f) to (h) of the French ver-
+sion of the Act are replaced by the following:
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 9-10
+
+Page 22 
+f) prescrivant les conditions d’exploitation des entre-
+prises de programmation faisant partie d’un réseau
+ainsi que les conditions de radiodiffusion des émis-
+sions de réseau et concernant le temps d’antenne à ré-
+server à celles-ci par ces entreprises;
+g) concernant la fourniture de services de program-
+mation — même étrangers — par les entreprises de
+distribution;
+h) pourvoyant au règlement — notamment par la mé-
+diation — de différends concernant la fourniture de
+programmation et survenant entre les entreprises de
+programmation qui la transmettent et les entreprises
+de distribution;
+(8) Paragraphs 10(1)(i) and (j) of the Act are re-
+placed by the following:
+(h.1) respecting unjust discrimination by a person
+carrying on a broadcasting undertaking and undue or
+unreasonable preference given, or undue or unreason-
+able disadvantage imposed, by such a person;
+(i) respecting the registration of broadcasting under-
+takings with the Commission;
+(j) respecting the audit or examination of records and
+books of account of persons carrying on broadcasting
+undertakings by the Commission or persons acting on
+behalf of the Commission; and
+(9) Paragraph 10(1)(k) of the French version of
+the Act is replaced by the following:
+k) concernant toute autre mesure qu’il estime néces-
+saire à l’exécution de sa mission.
+(10) Subsections 10(2) and (3) of the Act are re-
+placed by the following:
+Regulations — Canadian programs
+(1.1) In making regulations under paragraph (1)(b), the
+Commission shall consider the following matters:
+(a) whether Canadians, including independent pro-
+ducers, have a right or interest in relation to a pro-
+gram, including copyright, that allows them to control
+and benefit in a significant and equitable manner from
+the exploitation of the program;
+(b) whether key creative positions in the production of
+a program are primarily held by Canadians;
+(c) whether a program furthers Canadian artistic and
+cultural expression;
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+10
+
+Page 23 
+(d) the extent to which persons carrying on online un-
+dertakings or programming undertakings collaborate
+with independent Canadian producers, with persons
+carrying on Canadian broadcasting undertakings pro-
+ducing their own programs, with producers associated
+with Canadian broadcasting undertakings or with any
+other person involved in the Canadian program pro-
+duction industry, including Canadian owners of copy-
+right in musical works or in sound recordings; and
+(e) any other matter that may be prescribed by regula-
+tion.
+Regulations
+(1.2) The Governor in Council may make regulations
+prescribing matters that the Commission is required to
+consider under paragraph (1.1)(e).
+Application
+(2) A regulation made under subsection (1) may be made
+applicable to all persons carrying on broadcasting under-
+takings or to all persons carrying on broadcasting under-
+takings of any class established by the Commission in the
+regulation.
+Publication and representations
+(3) A copy of each regulation that the Commission pro-
+poses to make under subsection (1) shall be published in
+the Canada Gazette and a reasonable opportunity shall
+be given to persons carrying on broadcasting undertak-
+ings and other interested persons to make representa-
+tions to the Commission with respect to the regulation.
+11 The Act is amended by adding the following
+after section 10:
+For greater certainty
+10.1 For greater certainty, the Commission shall make
+orders under subsection 9.1(1) and regulations under
+subsection 10(1) in a manner that is consistent with the
+freedom of expression enjoyed by users of social media
+services that are provided by online undertakings.
+12 (1) The portion of subsection 11(1) of the
+French version of the Act before paragraph (a) is
+replaced by the following:
+Règlements : droits
+11 (1) Le Conseil peut prendre des règlements :
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 10-12
+
+Page 24 
+(2) Paragraphs 11(1)(a) to (d) of the Act are re-
+placed by the following:
+(a) with the approval of the Treasury Board, establish-
+ing schedules of fees to be paid by persons carrying on
+broadcasting undertakings of any class;
+(b) providing for the establishment of classes of
+broadcasting undertakings for the purposes of para-
+graph (a);
+(c) providing for the payment of any fees payable by a
+person carrying on a broadcasting undertaking, in-
+cluding the time and manner of payment;
+(d) respecting the interest payable by such a person in
+respect of any overdue fee; and
+(3) Paragraph 11(1)(e) of the French version of
+the Act is replaced by the following:
+e) concernant toute autre mesure d’application du
+présent article qu’il estime nécessaire.
+(4) The portion of subsection 11(2) of the English
+version of the Act before paragraph (a) is re-
+placed by the following:
+Criteria
+(2) Regulations made under paragraph (1)(a) may pro-
+vide for fees to be calculated by reference to any criteria
+that the Commission considers appropriate, including by
+reference to
+(5) Paragraph 11(2)(a) of the Act is replaced by
+the following:
+(a) the revenues of the persons carrying on broadcast-
+ing undertakings;
+(6) Paragraph 11(2)(b) of the English version of
+the Act is replaced by the following:
+(b) the performance of the persons carrying on broad-
+casting undertakings in relation to objectives estab-
+lished by the Commission, including objectives for the
+broadcasting of Canadian programs; and
+(7) Paragraph 11(2)(c) of the Act is replaced by
+the following:
+(c) the market served by the persons carrying on
+broadcasting undertakings.
+(8) Subsection 11(3) of the Act is replaced by the
+following:
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+12
+
+Page 25 
+Exceptions
+(3) No regulations made under subsection (1) shall apply
+to the Corporation or to persons carrying on program-
+ming undertakings on behalf of Her Majesty in right of a
+province.
+Restriction — non-licensees
+(3.1) The only fees that may be established with respect
+to a broadcasting undertaking shall be fees that relate to
+the recovery of the costs of the Commission’s activities
+under this Act.
+(9) Subsection 11(4) of the English version of the
+Act is replaced by the following:
+Debt due to Her Majesty
+(4) Fees payable under this section and any interest in
+respect of them constitute a debt due to Her Majesty in
+right of Canada and may be recovered as such in any
+court of competent jurisdiction.
+(10) Subsection 11(5) of the Act is replaced by the
+following:
+Publication and representations
+(5) A copy of each regulation that the Commission pro-
+poses to make under this section shall be published in
+the Canada Gazette and a reasonable opportunity shall
+be given to persons carrying on broadcasting undertak-
+ings and other interested persons to make representa-
+tions to the Commission with respect to the regulation.
+13 The Act is amended by adding the following
+after section 11:
+Regulations — expenditures
+11.1 (1) The Commission may make regulations re-
+specting expenditures to be made by persons carrying on
+broadcasting undertakings for the purposes of
+(a) developing, financing, producing or promoting
+Canadian audio or audio-visual programs, including
+independent productions, for broadcasting by broad-
+casting undertakings;
+(b) supporting, promoting or training Canadian cre-
+ators of audio or audio-visual programs for broadcast-
+ing by broadcasting undertakings;
+(b.1) supporting broadcasting undertakings offering
+programming services that, in the Commission’s opin-
+ion, are of exceptional importance to the achievement
+of the objectives of the broadcasting policy set out in
+subsection 3(1);
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 12-13
+
+Page 26 
+(c) supporting participation by persons, groups of
+persons or organizations representing the public inter-
+est in proceedings before the Commission under this
+Act; or
+(d) supporting the development of initiatives — in-
+cluding tools — that, in the Commission’s opinion, are
+efficient and necessary for the achievement of the ob-
+jectives of the broadcasting policy set out in subsec-
+tion 3(1).
+Order — particular broadcasting undertaking
+(2) The Commission may make an order respecting ex-
+penditures to be made by a particular person carrying on
+a broadcasting undertaking for any of the purposes set
+out in paragraphs (1)(a) to (d).
+Minimum expenditures — French language original
+programs
+(3) Regulations and orders made under this section for
+the purposes set out in paragraph (1)(a) shall prescribe
+the minimum share of expenditures that are to be allo-
+cated to Canadian original French language programs in
+the case of broadcasting undertakings that offer pro-
+grams in both official languages.
+Application of regulations
+(4) A regulation made under this section may be made
+applicable to all persons carrying on broadcasting under-
+takings or to all persons carrying on broadcasting under-
+takings of any class established by the Commission in the
+regulation.
+Recipients
+(5) Regulations and orders made under this section may
+provide that an expenditure is to be paid to any person or
+organization, other than the Commission, or into any
+fund, other than a fund administered by the Commission.
+Criteria
+(6) Regulations and orders made under this section may
+provide for expenditures to be calculated by reference to
+any criteria that the Commission considers appropriate,
+including by reference to
+(a) the revenues of the persons carrying on broadcast-
+ing undertakings;
+(b) the performance of the persons carrying on broad-
+casting 
+undertakings 
+in 
+relation 
+to 
+objectives
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+13
+
+Page 27 
+established by the Commission, including objectives
+for the broadcasting of Canadian programs; and
+(c) the market served by the persons carrying on
+broadcasting undertakings.
+Publication and representations
+(7) A copy of each regulation that the Commission pro-
+poses to make under this section shall be published in
+the Canada Gazette and a copy of each proposed order
+shall be published on the Commission’s website. A rea-
+sonable opportunity shall be given to persons carrying on
+broadcasting undertakings and other interested persons
+to make representations to the Commission with respect
+to the regulation or order.
+Non-application
+(8) The Statutory Instruments Act does not apply to or-
+ders made under subsection (2).
+2014, c. 39, s. 191(1); 2019, c. 10, s. 161(1)
+14 Subsection 12(1) of the Act is replaced by the
+following:
+Inquiries
+12 (1) The Commission may inquire into, hear and de-
+termine a matter if it appears to the Commission that
+(a) any person is contravening or has contravened this
+Part or any regulation, licence, decision or order made
+or issued by the Commission under this Part;
+(b) any person is contravening or has contravened
+section 34.1;
+(c) any person is contravening or has contravened
+sections 42 to 44 of the Accessible Canada Act; or
+(d) the circumstances may require the Commission to
+make any decision or order or to give any approval
+that it is authorized to make or give under this Part or
+under any regulation or order made under this Part.
+15 (1) Paragraph 18(1)(c) of the Act is replaced by
+the following:
+(c) the establishing of any performance objectives for
+the purposes of paragraphs 11(2)(b) and 11.1(6)(b);
+and
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 13-15
+
+Page 28 
+(2) Subsection 18(2) of the Act is replaced by the
+following:
+Public hearings — specific matters
+(2) The Commission shall also hold a public hearing in
+connection with the following matters unless it is satis-
+fied that such a hearing is not required in the public in-
+terest:
+(a) the amendment or renewal of a licence;
+(b) the making of an order under subsection 9.1(1) or
+11.1(2); and
+(c) the making of any regulation under this Act.
+16 (1) Section 20 of the Act is amended by adding
+the following after subsection (1):
+Appointments by Chairperson
+(1.1) The Chairperson of the Commission may appoint
+members of the Commission to a panel if it is determined
+that the panel would otherwise have fewer than three
+members.
+Exception — conflict of interest
+(1.2) Members of the Commission may participate in
+any panel, unless this participation would place them in a
+conflict of interest.
+(2) Subsection 20(4) of the Act is replaced by the
+following:
+Consultation
+(4) The members of a panel established under subsection
+(1) shall consult with the Commission, and may consult
+with any officer of the Commission, for the purpose of
+ensuring a consistency of interpretation of the broadcast-
+ing policy set out in subsection 3(1), the regulatory policy
+set out in subsection 5(2), the orders made under section
+9.1, the regulations made under sections 10 and 11 and
+the regulations and orders made under section 11.1.
+17 Section 21 of the French version of the Act is
+replaced by the following:
+Règles
+21 Le Conseil peut établir des règles concernant l’ins-
+truction des affaires dont il est saisi, notamment la pro-
+cédure applicable à la présentation des demandes d’attri-
+bution, de modification, de renouvellement, de suspen-
+sion ou de révocation de licences, la présentation des ob-
+servations et des plaintes et le déroulement des au-
+diences.
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 15-17
+
+Page 29 
+18 Subsections 23(1) to (3) of the Act are replaced
+by the following:
+Consultation between Commission and Corporation
+23 (1) The Commission shall, at the request of the Cor-
+poration, consult with the Corporation with regard to any
+conditions that the Commission proposes to impose un-
+der subsection 9.1(1) — or with regard to any regulation
+or order that the Commission proposes to make under
+section 11.1 — that would apply with respect to the Cor-
+poration.
+Reference to Minister
+(2) If, despite the consultation provided for in subsection
+(1), the Commission imposes any condition, or makes
+any regulation or order, referred to in subsection (1) that
+the Corporation is satisfied would unreasonably impede
+the Corporation in providing the programming contem-
+plated by paragraphs 3(1)(l) and (m), the Corporation
+may, within 30 days after the condition is imposed or the
+regulation or order is made, refer the condition, regula-
+tion or order to the Minister for consideration.
+Ministerial directive
+(3) Subject to subsection (4), the Minister may, within
+90 days after a condition, regulation or order is referred
+to the Minister under subsection (2), issue to the Com-
+mission a written directive with respect to the condition,
+regulation or order and the Commission shall comply
+with any such directive issued by the Minister.
+19 Paragraph 24(1)(a) of the Act is replaced by
+the following:
+(a) the licensee has contravened any order made un-
+der subsection 9.1(1), 11.1(2) or 12(2) or any regula-
+tion made under this Part; or
+20 Subsection 25(1) of the Act is replaced by the
+following:
+Report of contravention by Corporation
+25 (1) If the Commission is satisfied, after a public hear-
+ing on the matter, that the Corporation has contravened
+section 31.1, any order made under subsection 9.1(1),
+11.1(2) or 12(2) or any regulation made under this Part,
+the Commission shall forward to the Minister a report
+setting out the circumstances of the contravention, the
+findings of the Commission and any observations or rec-
+ommendations of the Commission in connection with the
+contravention.
+21 The Act is amended by adding the following
+after section 25:
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 18-21
+
+Page 30 
+Provision of Information by
+Commission
+Minister or Chief Statistician
+25.1 The Commission shall, on request, provide the
+Minister or the Chief Statistician of Canada with any in-
+formation submitted to the Commission in respect of a
+broadcasting undertaking.
+Access to information
+25.2 Subject to section 25.3, the Commission shall
+proactively make available for public inspection any in-
+formation submitted to the Commission in the course of
+proceedings before it.
+Confidential information
+25.3 (1) A person who submits any of the following in-
+formation to the Commission may designate it as confi-
+dential:
+(a) information that is a trade secret;
+(b) financial, commercial, scientific or technical infor-
+mation that is confidential and that is treated consis-
+tently in a confidential manner by the person who
+submitted it; or
+(c) information the disclosure of which could reason-
+ably be expected
+(i) to result in material financial loss or gain to any
+person,
+(ii) to prejudice the competitive position of any
+person, or
+(iii) to affect contractual or other negotiations of
+any person.
+Information not to be disclosed
+(2) Subject to subsections (4), (5) and (7), if a person
+designates information as confidential and the designa-
+tion is not withdrawn by that person, no person de-
+scribed in subsection (3) shall knowingly disclose the in-
+formation, or knowingly allow it to be disclosed, to any
+other person in any manner that is intended or likely to
+make it available for the use of any person who may ben-
+efit from the information or use it to the detriment of any
+person to whose business or affairs the information re-
+lates.
+Persons who shall not disclose information
+(3) Subsection (2) applies to any person referred to in
+any of the following paragraphs who comes into
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+21
+
+Page 31 
+possession of designated information while holding the
+office or employment described in that paragraph,
+whether or not the person has ceased to hold that office
+or be so employed:
+(a) a member of, or a person employed by, the Com-
+mission;
+(b) in respect of information disclosed under para-
+graph (4)(b) or (5)(b), the Commissioner of Competi-
+tion appointed under the Competition Act or a person
+whose duties involve the carrying out of that Act and
+who is referred to in section 25 of that Act;
+(c) in respect of information provided under section
+25.1, the Minister, the Chief Statistician of Canada or
+an agent of or a person employed in the federal public
+administration.
+Disclosure of information submitted in proceedings
+(4) If designated information is submitted in the course
+of proceedings before the Commission, the Commission
+may, while protecting the privacy of Canadians,
+(a) disclose the information or require its disclosure if
+the Commission determines, after considering any
+representations from interested persons, that the dis-
+closure is in the public interest; and
+(b) disclose the information or require its disclosure
+to the Commissioner of Competition on the Commis-
+sioner’s request if the Commission determines that the
+information is relevant to competition issues being
+considered in the proceedings.
+Disclosure of other information
+(5) If designated information is submitted to the Com-
+mission otherwise than in the course of proceedings be-
+fore it, the Commission may, while protecting the privacy
+of Canadians,
+(a) disclose the information or require its disclosure
+if, after considering any representations from interest-
+ed persons, the Commission considers that the infor-
+mation is relevant to a matter arising in the exercise of
+its powers or the performance of its duties and func-
+tions and determines that the disclosure is in the pub-
+lic interest; and
+(b) disclose the information or require its disclosure
+to the Commissioner of Competition, on the Commis-
+sioner’s request, if the Commission considers that the
+information is relevant to competition issues that are
+related to such a matter.
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+21
+
+Page 32 
+Information disclosed to Commissioner of
+Competition
+(6) Neither the Commissioner of Competition nor any
+person whose duties involve the administration and en-
+forcement of the Competition Act and who is referred to
+in section 25 of that Act shall use information that is dis-
+closed
+(a) under paragraph (4)(b) other than to facilitate the
+Commissioner’s participation in proceedings referred
+to in subsection (4); or
+(b) under paragraph (5)(b) other than to facilitate the
+Commissioner’s participation in a matter referred to
+in subsection (5).
+Information inadmissible
+(7) Designated information that is not disclosed or re-
+quired to be disclosed under this section is not admissi-
+ble in evidence in any judicial proceedings except pro-
+ceedings for failure to submit information required to be
+submitted under this Act or for forgery, perjury or false
+declaration in relation to the submission of the informa-
+tion.
+22 (1) Subsection 28(1) of the Act is replaced by
+the following:
+Setting aside or referring decisions back to
+Commission
+28 (1) If the Commission makes a decision under sec-
+tion 9 to issue, amend or renew a licence, the Governor in
+Council may, within 180 days after the date of the deci-
+sion, on petition in writing of any person received within
+45 days after that date or on the Governor in Council’s
+own motion, by order, set aside the decision or refer the
+decision back to the Commission for reconsideration and
+hearing of the matter by the Commission, if the Governor
+in Council is satisfied that the decision derogates from
+the attainment of the objectives of the broadcasting poli-
+cy set out in subsection 3(1).
+(2) Paragraph 28(3)(b) of the Act is replaced by
+the following:
+(b) rescind the issue of the licence and issue a licence
+to another person; or
+(3) Subsections 28(4) and (5) of the Act are re-
+pealed.
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 21-22
+
+Page 33 
+23 (1) Subsection 29(1) of the Act is replaced by
+the following:
+Filing of petitions
+29 (1) Every person who petitions the Governor in
+Council under subsection 28(1) shall at the same time
+send a copy of the petition to the Commission.
+(2) Subsection 29(3) of the English version of the
+Act is replaced by the following:
+Register
+(3) The Commission shall establish and maintain a pub-
+lic register in which shall be kept a copy of each petition
+received by the Commission.
+24 The Act is amended by adding the following
+after section 31:
+Prohibition
+Carrying on broadcasting undertaking
+31.1 (1) A person shall not carry on a broadcasting un-
+dertaking unless
+(a) they do so in accordance with a licence issued to
+them; or
+(b) they are exempt, under an order made under sub-
+section 9(4), from the requirement to hold a licence.
+Exception — online undertaking
+(2) Despite subsection (1), a person may carry on an on-
+line undertaking without a licence and without being so
+exempt.
+25 Sections 32 to 34 of the Act are replaced by the
+following:
+Broadcasting contrary to Act
+32 Every person who contravenes section 31.1 is guilty of
+an offence punishable on summary conviction and is li-
+able
+(a) in the case of an individual, to a fine of not more
+than $25,000 for each day that the offence continues;
+or
+(b) in the case of a corporation, to a fine of not more
+than $250,000 for each day that the offence continues.
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 23-25
+
+Page 34 
+Contravention of regulation or order
+33 Every person who contravenes any regulation or or-
+der made under this Part is guilty of an offence punish-
+able on summary conviction and is liable
+(a) in the case of an individual, to a fine of not more
+than $25,000 for a first offence and of not more
+than $50,000 for each subsequent offence; or
+(b) in the case of a corporation, to a fine of not more
+than $250,000 for a first offence and of not more
+than $500,000 for each subsequent offence.
+Defence
+33.1 A person is not to be found guilty of an offence un-
+der section 32 or 33 if they establish that they exercised
+due diligence to prevent the commission of the offence.
+Limitation
+34 Proceedings in respect of an offence under section 33
+may be instituted within, but not after, two years after
+the day on which the subject matter of the proceedings
+arose.
+Consultation and Review
+Regulations and orders
+34.01 (1) Every seven years the Commission shall con-
+sult with all interested persons with respect to orders
+made under section 9.1 and regulations and orders made
+under section 11.1 and shall publish, on the Internet or
+otherwise, a report on the consultations that also lists the
+orders and regulations that the Commission proposes to
+review as a result of the consultations and sets out its
+plan for conducting the review.
+Publication of report
+(2) The Commission shall publish the first report within
+seven years after the day on which this subsection comes
+into force and, subsequently, within seven years after the
+day on which the most recent report is published.
+Tabling of reports
+(3) The Minister shall cause a copy of all reports pub-
+lished under subsections (1) and (2) to be tabled before
+each House of Parliament.
+26 The Act is amended by adding the following
+after section 34.2:
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 25-26
+
+Page 35 
+Defence
+34.21 A person is not to be found guilty of an offence
+under section 34.2 if they establish that they exercised
+due diligence to prevent the commission of the offence.
+27 The Act is amended by adding the following
+after section 34.3:
+PART II.2
+Administrative Monetary
+Penalties
+Violations
+34.4 (1) Subject to a regulation made under paragraph
+34.995(a), a person commits a violation if they
+(a) contravene a regulation or order made under
+Part II;
+(b) contravene the requirement to negotiate in good
+faith under subsection 9.1(9);
+(c) carry on a broadcasting undertaking in contraven-
+tion of section 31.1;
+(d) charge a subscriber for providing the subscriber
+with a paper bill in contravention of section 34.1;
+(e) contravene an undertaking that they entered into
+under section 34.9;
+(f) fail to submit information in accordance with a no-
+tice issued under section 34.996 to a person designated
+under paragraph 34.7(a) that the designated person
+requires by the notice;
+(g) knowingly make a material misrepresentation of
+fact in contravention of section 34.997; or
+(h) contravene any of subsections 42(1) to (4) and (7),
+43(1) to (3) and 44(1) to (3) and (6) of the Accessible
+Canada Act.
+Continued violation
+(2) A violation that is continued on more than one day
+constitutes a separate violation in respect of each day on
+which it is continued.
+Maximum administrative monetary penalty
+34.5 (1) Subject to a regulation made under paragraph
+34.995(b), a person who commits a violation is liable to
+an administrative monetary penalty
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 26-27
+
+Page 36 
+(a) in the case of an individual, of not more
+than $25,000 for a first violation and of not more
+than $50,000 for each subsequent violation; or
+(b) in any other case, of not more than $10 million for
+a first violation and of not more than $15 million for
+each subsequent violation.
+Criteria for penalty
+(2) The amount of the penalty is to be determined by
+taking into account the following factors:
+(a) the nature and scope of the violation;
+(b) the history of compliance by the person who com-
+mitted the violation with this Act, the regulations and
+the decisions and orders made by the Commission un-
+der this Act;
+(c) the person’s history with respect to any previous
+undertaking entered into under section 34.9;
+(d) any benefit that the person obtained from the
+commission of the violation;
+(e) the person’s ability to pay the penalty;
+(f) any factors established by regulation;
+(g) the purpose of the penalty, which is to promote
+compliance with this Act — or, in the case of a penalty
+imposed for a violation referred to in paragraph
+34.4(1)(h), compliance with the Accessible Canada Act
+— and not to punish; and
+(h) any other relevant factor.
+Purpose of penalty
+(3) The purpose of the penalty is to promote compliance
+with this Act — or, in the case of a penalty imposed for a
+violation referred to in paragraph 34.4(1)(h), compliance
+with the Accessible Canada Act — and not to punish.
+Procedures
+34.6 (1) Despite subsection 34.8(1), the Commission
+may impose a penalty in a decision made in the course of
+a proceeding before it under this Act in which it finds
+that a violation referred to in section 34.4 has been com-
+mitted by a person other than the person who entered in-
+to an undertaking under section 34.9 in connection with
+the same act or omission giving rise to the violation.
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+27
+
+Page 37 
+For greater certainty
+(2) For greater certainty, the Commission is not to im-
+pose a penalty under subsection (1) on a person who has
+not been given the opportunity to be heard.
+Designation
+34.7 The Commission may
+(a) designate persons or classes of persons who are
+authorized to issue notices of violation or to accept an
+undertaking under section 34.9; and
+(b) establish, in respect of each violation, a short-form
+description to be used in notices of violation.
+Notice of violation
+34.8 (1) A person who is authorized to issue notices of
+violation may, if they believe on reasonable grounds that
+another person has committed a violation, issue a notice
+of violation and cause it to be served on that other per-
+son.
+Contents
+(2) The notice of violation shall set out
+(a) the name of the person who is believed to have
+committed a violation;
+(b) the act or omission giving rise to the violation, as
+well as a reference to the provision that is at issue;
+(c) the administrative monetary penalty that the per-
+son is liable to pay, as well as the time and manner in
+which the person may pay the penalty;
+(d) a statement informing the person that they may
+pay the penalty or make representations to the Com-
+mission with respect to the violation and the penalty
+and informing them of the time and manner for mak-
+ing such representations; and
+(e) a statement informing the person that, if they do
+not pay the penalty or make representations in accor-
+dance with the notice, they will be deemed to have
+committed the violation and the penalty may be im-
+posed.
+Undertaking
+34.9 (1) A person may enter into an undertaking at any
+time. The undertaking is valid upon its acceptance by the
+Commission or, if it is entered into by a person other
+than the Corporation, upon its acceptance by the
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+27
+
+Page 38 
+Commission or the person designated to accept an un-
+dertaking.
+Requirements
+(2) An undertaking referred to in subsection (1)
+(a) shall set out every act or omission that is covered
+by the undertaking;
+(b) shall set out every provision that is at issue;
+(c) may contain any conditions that the Commission
+or the person designated to accept the undertaking
+considers appropriate; and
+(d) may include a requirement to pay a specified
+amount.
+Before notice of violation
+(3) If a person enters into an undertaking, a notice of vi-
+olation shall not be served on them in connection with
+any act or omission referred to in the undertaking.
+After notice of violation
+(4) If a person enters into an undertaking after a notice
+of violation is served on them, the proceeding that is
+commenced by the notice of violation is ended in respect
+of that person in connection with any act or omission re-
+ferred to in the undertaking.
+Powers respecting hearings
+34.91 For greater certainty, the Commission has all the
+powers, rights and privileges referred to in section 16 if,
+in a proceeding in respect of a violation, it holds a public
+hearing under subsection 18(3).
+Payment of penalty
+34.92 (1) If a person who is served with a notice of vio-
+lation pays the penalty set out in the notice, they are
+deemed to have committed the violation and the pro-
+ceedings in respect of it are ended.
+Decision of Commission
+(1.1) The Commission shall, in a timely manner, issue a
+decision with respect to subsection (1) confirming that
+the person is deemed to have committed the violation.
+Representations to Commission and decision
+(2) If a person who is served with a notice of violation
+makes representations in accordance with the notice, the
+Commission shall decide, on a balance of probabilities,
+after considering any other representations that it con-
+siders appropriate, whether the person committed the
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+27
+
+Page 39 
+violation. If the Commission decides that the person
+committed the violation, it may
+(a) impose the administrative monetary penalty set
+out in the notice, a lesser penalty or no penalty; and
+(b) suspend payment of the administrative monetary
+penalty subject to any conditions that the Commission
+considers necessary to ensure compliance with this
+Act.
+Penalty
+(3) If a person who is served with a notice of violation
+neither pays the penalty nor makes representations in ac-
+cordance with the notice, the person is deemed to have
+committed the violation and the Commission may im-
+pose the penalty.
+Copy of decision and notice of rights
+(4) The Commission shall cause a copy of any decision
+made under subsection (1.1), (2) or (3) to be issued and
+served on the person together with a notice of the per-
+son’s right to apply for leave to appeal under section 31.
+Evidence
+34.93 In a proceeding in respect of a violation, a notice
+purporting to be served under subsection 34.8(1) or a
+copy of a decision purporting to be served under subsec-
+tion 34.92(4) is admissible in evidence without proof of
+the signature or official character of the person appearing
+to have signed it.
+Defence
+34.94 (1) A person is not to be found liable for a viola-
+tion, other than a violation under paragraph 34.4(1)(b) or
+(g), if they establish that they exercised due diligence to
+prevent its commission.
+Common law principles
+(2) Every rule and principle of the common law that
+makes any circumstance a justification or excuse in rela-
+tion to a charge for an offence applies in respect of a vio-
+lation to the extent that it is not inconsistent with this
+Act.
+Directors, officers, etc., of corporations
+34.95 An officer, director or agent or mandatary of a
+corporation other than the Canadian Broadcasting Cor-
+poration, that commits a violation is liable for the viola-
+tion if they directed, authorized, assented to, acquiesced
+in or participated in the commission of the violation,
+whether or not the corporation is proceeded against.
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+27
+
+Page 40 
+Vicarious liability
+34.96 A person, other than the Corporation, is liable for
+a violation that is committed by their employee acting
+within the scope of their employment or their agent or
+mandatary acting within the scope of their authority,
+whether or not the employee or agent or mandatary is
+identified or proceeded against.
+Limitation or prescription period
+34.97 (1) Proceedings in respect of a violation may be
+instituted within, but not after, three years after the day
+on which the subject matter of the proceedings became
+known to the Commission.
+Certificate
+(2) A document that appears to have been issued by the
+secretary to the Commission, certifying the day on which
+the subject matter of any proceedings became known to
+the Commission, is admissible in evidence without proof
+of the signature or official character of the person who
+appears to have signed the document and is, in the ab-
+sence of evidence to the contrary, proof of the matter as-
+serted in it.
+Information may be made public
+34.98 The Commission may make public
+(a) the name of a person who enters into an undertak-
+ing under section 34.9, the nature of the undertaking
+including the acts or omissions and provisions at is-
+sue, the conditions included in the undertaking and
+the amount payable under it, if any; or
+(b) the name of a person who is deemed, or is found
+by the Commission or on appeal, to have committed a
+violation, the acts or omissions and provisions at issue
+and the amount of the penalty imposed, if any.
+Special case concerning the Corporation — public
+hearing
+34.99 (1) Despite subsections 34.6(1) and 34.92(2) and
+(3), the Commission shall not impose a penalty under
+any of those subsections on the Corporation for a viola-
+tion other than the one referred to in paragraph
+34.4(1)(h) without holding a public hearing on the mat-
+ter.
+Place of hearing
+(2) A public hearing under subsection (1) may be held at
+any place in Canada designated by the Chairperson of the
+Commission.
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+27
+
+Page 41 
+Notice of hearing
+(3) The Commission shall cause notice of any public
+hearing to be held by it under subsection (1) to be pub-
+lished in the Canada Gazette and in one or more news-
+papers of general circulation within any area affected or
+likely to be affected by the matter to which the public
+hearing relates.
+Powers respecting hearings
+(4) The Commission has, in respect of any hearing under
+subsection (1), with regard to the attendance, swearing
+and examination of witnesses at the hearing, the produc-
+tion and inspection of documents and other matters nec-
+essary or proper in relation to the hearing, all of the pow-
+ers, rights and privileges that are vested in a superior
+court of record.
+For greater certainty
+(5) For greater certainty, sections 17, 20 and 21 apply in
+respect of public hearings under subsection (1).
+Report of violation
+34.991 (1) If the Commission is satisfied, after holding
+a public hearing on the matter, that the Corporation has
+committed a violation referred to in any of paragraphs
+34.4(1)(a) to (g), the Commission shall forward to the
+Minister a report setting out the circumstances of the vi-
+olation, the findings of the Commission, the amount of
+any penalty imposed, and any observations or recom-
+mendations of the Commission in connection with the vi-
+olation.
+Report to be tabled
+(2) The Minister shall cause a copy of the report referred
+to in subsection (1) to be laid before each House of Par-
+liament on any of the first 15 days on which that House is
+sitting after the report is received by the Minister.
+Violation or offence
+34.992 (1) If an act or omission can be proceeded with
+either as a violation or as an offence under this Act, pro-
+ceeding in one manner precludes proceeding in the oth-
+er.
+For greater certainty
+(2) For greater certainty, a violation is not an offence
+and, accordingly, section 126 of the Criminal Code does
+not apply.
+Receiver General
+34.993 An administrative monetary penalty paid or re-
+covered in relation to a violation is payable to the Receiv-
+er General.
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+27
+
+Page 42 
+Debt due to Her Majesty
+34.994 (1) The following amounts are debts due to Her
+Majesty in right of Canada that may be recovered in the
+Federal Court:
+(a) the amount of the penalty imposed by the Com-
+mission in a decision made in the course of a proceed-
+ing before it under this Act in which it finds that a vio-
+lation referred to in section 34.4 has been committed;
+(b) the amount payable under an undertaking entered
+into under section 34.9, beginning on the day specified
+in the undertaking or, if no day is specified, beginning
+on the day on which the undertaking is accepted;
+(c) the amount of the penalty set out in a notice of vio-
+lation, beginning on the day on which it is required to
+be paid in accordance with the notice, unless repre-
+sentations are made in accordance with the notice;
+(d) if representations are made, either the amount of
+the administrative monetary penalty that is imposed
+by the Commission or on appeal, as the case may be,
+beginning on the day specified by the Commission or
+the court or, if no day is specified, beginning on the
+day on which the decision is made; and
+(e) the amount of any reasonable expenses incurred in
+attempting to recover an amount referred to in any of
+paragraphs (a) to (d).
+Limitation period or prescription
+(2) Proceedings to recover a debt may be instituted with-
+in, but not after, three years after the day on which the
+debt becomes payable.
+Certificate of default
+(3) The Commission may issue a certificate for the un-
+paid amount of any debt referred to in subsection (1).
+Effect of registration
+(4) Registration of a certificate in the Federal Court has
+the same effect as a judgment of that Court for a debt of
+the amount set out in the certificate and all related regis-
+tration costs.
+Regulations
+34.995 The Governor in Council may make regulations
+(a) providing for exceptions to any of paragraphs
+34.4(1)(a) to (h);
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+27
+
+Page 43 
+(b) increasing the maximum administrative monetary
+penalty amounts set out in subsection 34.5(1);
+(c) for the purpose of paragraph 34.5(2)(f), establish-
+ing other factors to be considered in determining the
+amount of the penalty;
+(d) respecting undertakings referred to in section 34.9;
+(e) respecting the service of documents required or
+authorized to be served under this Part, including the
+manner and proof of service and the circumstances
+under which documents are to be considered to be
+served; and
+(f) generally, for carrying out the purposes and provi-
+sions of this Part.
+PART II.3
+Submission of Information
+Information requirement
+34.996 A person designated under paragraph 34.7(a)
+who believes that a person is in possession of informa-
+tion that is reasonably considered to be relevant for the
+purpose of verifying whether a violation referred to in
+section 34.4 has been committed may, by notice, require
+that person to submit the information to the designated
+person in the form and manner and within the reason-
+able time that is stipulated in the notice. A person to
+whom any such notice is addressed shall comply with the
+notice.
+PART II.4
+Offence — Material
+Misrepresentation of Fact
+Prohibition
+34.997 It is prohibited for any person to knowingly
+make a material misrepresentation of fact to a person
+designated under paragraph 34.7(a).
+Offence
+34.998 (1) Every person who contravenes section
+34.997 is guilty of an offence punishable on summary
+conviction and is liable
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Section  
+27
+
+Page 44 
+(a) in the case of an individual, to a fine of not more
+than $10,000 for a first offence and of not more
+than $25,000 for each subsequent offence; or
+(b) in any other case, to a fine of not more
+than $100,000 for a first offence and of not more
+than $250,000 for each subsequent offence.
+Limitation
+(2) Proceedings in respect of an offence under subsection
+(1) may be instituted within, but not after, two years after
+the day on which the subject matter of the proceedings
+arose.
+28 (1) Paragraphs 38(1)(a) to (c) of the Act are re-
+placed by the following:
+(a) is engaged in the operation of a broadcasting un-
+dertaking described in subsection (3);
+(b) has any pecuniary or proprietary interest in such a
+broadcasting undertaking; or
+(c) is principally engaged in the production or distri-
+bution of program material that is primarily intended
+for use by such a broadcasting undertaking.
+(2) Section 38 of the Act is amended by adding the
+following after subsection (2):
+Application
+(3) Subsection (1) applies with respect to a broadcasting
+undertaking that
+(a) must be carried on under a licence;
+(b) is carried on by a person who is exempt from the
+requirement to hold a licence, under an order made
+under subsection 9(4); or
+(c) must be registered with the Commission under
+regulations made under paragraph 10(1)(i).
+29 (1) The portion of subsection 46(1) of the Act
+before paragraph (a) is replaced by the follow-
+ing:
+Objects and powers
+46 (1) The Corporation is established for the purpose of
+providing the programming contemplated by paragraphs
+3(1)(l) and (m), subject to any applicable orders and
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 27-29
+
+Page 45 
+regulations of the Commission, and for that purpose the
+Corporation may
+(2) Paragraph 46(1)(b) of the Act is replaced by
+the following:
+(b) make agreements with persons carrying on broad-
+casting undertakings for the broadcasting of pro-
+grams;
+(3) Subsections 46(2) and (3) of the Act are re-
+placed by the following:
+International service
+(2) The Corporation shall, subject to any applicable or-
+ders and regulations of the Commission, provide an in-
+ternational service that includes the creation, production
+and presentation of programming intended for audiences
+outside of Canada and provided in English, French and
+any other language deemed appropriate, in accordance
+with any directions that the Governor in Council may is-
+sue.
+Power to act as agent
+(3) The Corporation may, subject to any applicable or-
+ders and regulations of the Commission, act as an agent
+of Her Majesty in right of Canada, or as an agent or man-
+datary of Her Majesty in right of a province, in respect of
+any broadcasting operations that it may be directed by
+the Governor in Council to carry out.
+30 Subsection 51(1) of the French version of the
+Act is replaced by the following:
+Règlements administratifs
+51 (1) Le conseil d’administration peut prendre des rè-
+glements administratifs :
+a) concernant la convocation de ses réunions;
+b) concernant le déroulement de celles-ci ainsi que la
+constitution de comités permanents et spéciaux, la dé-
+légation de fonctions à ces comités — y compris ceux
+visés à l’article 45 — et la fixation de leur quorum;
+c) fixant les honoraires des administrateurs autres
+que le président du conseil et le président-directeur
+général, pour leur présence à ses réunions ou à celles
+des comités, ainsi que les indemnités de déplacement
+et de séjour à payer à tous les administrateurs;
+d) concernant, d’une part, les obligations et le code de
+conduite des administrateurs et du personnel de la So-
+ciété et, d’autre part, les conditions d’emploi et les mo-
+dalités de cessation d’emploi de celui-ci, y compris le
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 29-30
+
+Page 46 
+paiement à titre individuel ou collectif, de toute grati-
+fication — indemnité de retraite ou autre;
+e) concernant la création et la gestion d’une caisse de
+retraite pour les administrateurs et le personnel de la
+Société et les personnes à leur charge, ainsi que les co-
+tisations de celle-ci à cette caisse et le placement de
+ses fonds;
+f) d’une façon générale, régissant la conduite des acti-
+vités de la Société.
+Related Amendments
+1992, c. 33
+Status of the Artist Act
+31 Subparagraph 6(2)(a)(ii) of the Status of the
+Artist Act is replaced by the following:
+(ii) broadcasting undertakings, regulated under the
+Broadcasting Act, that are federal works, under-
+takings or businesses, as defined in section 2 of
+the Canada Labour Code, or that are corporations
+established to perform any function or duty on be-
+half of the Government of Canada;
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Broadcasting Act
+Sections 30-31
+
+Page 47 
+2010, c. 23
+An Act to promote the efficiency and
+adaptability of the Canadian economy
+by regulating certain activities that
+discourage reliance on electronic
+means of carrying out commercial
+activities, and to amend the Canadian
+Radio-television and
+Telecommunications Commission
+Act, the Competition Act, the Personal
+Information Protection and Electronic
+Documents Act and the
+Telecommunications Act
+32 Section 5 of An Act to promote the efficiency
+and adaptability of the Canadian economy by
+regulating certain activities that discourage re-
+liance on electronic means of carrying out com-
+mercial activities, and to amend the Canadian
+Radio-television and Telecommunications Com-
+mission Act, the Competition Act, the Personal
+Information Protection and Electronic Docu-
+ments Act and the Telecommunications Act is re-
+placed by the following:
+Broadcasting excluded
+5 This Act does not apply in respect of broadcasting by
+a broadcasting undertaking, other than an online un-
+dertaking, as those terms are defined in subsection 2(1)
+of the Broadcasting Act.
+33 Section 6 of the Act is amended by adding the
+following after subsection (7):
+Exception
+(7.1) This section does not apply to a commercial elec-
+tronic message that is sent or caused or permitted to be
+sent by an online undertaking, as defined in subsection
+2(1) of the Broadcasting Act, if
+(a) the person to whom the message is sent has ex-
+pressly or implicitly consented to the transmission of a
+program, as defined in that subsection, from that on-
+line undertaking to an electronic address; and
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Related Amendments
+An Act to promote the efficiency and adaptability of the Canadian economy by regulating
+certain activities that discourage reliance on electronic means of carrying out commercial
+activities, and to amend the Canadian Radio-television and Telecommunications
+Commission Act, the Competition Act, the Personal Information Protection and Electronic
+Documents Act and the Telecommunications Act
+Sections 32-33
+
+Page 48 
+(b) the message is or forms part of that program or is
+sent in the course of the transmission of that program
+to the electronic address to which that program is
+transmitted.
+34 The portion of subsection 10(9) of the Act be-
+fore paragraph (a) is replaced by the following:
+Implied consent — section 6
+(9) For the purpose of section 6, except subsection 6(7.1),
+consent is implied only if
+2018, c. 16
+Cannabis Act
+35 Paragraph 23(2)(b) of the Cannabis Act is re-
+placed by the following:
+(b) in respect of broadcasting, as defined in subsec-
+tion 2(1) of the Broadcasting Act, by
+(i) a distribution undertaking, as defined in that
+subsection 2(1), that is lawful under that Act, other
+than the broadcasting of a promotion that is insert-
+ed by the undertaking, or
+(ii) an online undertaking, as defined in that sub-
+section 2(1), that is lawful under that Act, in respect
+of the retransmission of programs over the Inter-
+net, other than the broadcasting of a promotion
+that is inserted by the undertaking; and
+Consequential Amendments
+R.S., c. A-1
+Access to Information Act
+36 Schedule II to the Access to Information Act
+is amended by adding, in alphabetical order, a
+reference to
+Broadcasting Act
+Loi sur la radiodiffusion
+and a corresponding reference to “subsection
+25.3(2)”.
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Related Amendments
+An Act to promote the efficiency and adaptability of the Canadian economy by regulating
+certain activities that discourage reliance on electronic means of carrying out commercial
+activities, and to amend the Canadian Radio-television and Telecommunications
+Commission Act, the Competition Act, the Personal Information Protection and Electronic
+Documents Act and the Telecommunications Act
+Sections 33-36
+
+Page 49 
+R.S., c. C-22
+Canadian Radio-television and
+Telecommunications Commission Act
+2019, c. 10, s. 147
+37 Subsection 13(2) of the Canadian Radio-
+television and Telecommunications Commission
+Act is amended by striking out “and” at the end
+of paragraph (c) and by adding the following af-
+ter paragraph (d):
+(e) notices of violation issued under section 34.8 of the
+Broadcasting Act in relation to contraventions of a
+regulation or order made under Part II of that Act in
+relation to the identification, prevention and removal
+of barriers; and
+(f) notices of violation issued under section 34.8 of the
+Broadcasting Act in relation to contraventions of any
+of subsections 42(1) to (4) and (7), 43(1) to (3) and
+44(1) to (3) and (6) of the Accessible Canada Act.
+R.S., c. C-42
+Copyright Act
+1997, c. 24, s. 18(1); 2012, c. 20, s. 33
+38 Subsection 30.8(11) of the Copyright Act is re-
+placed by the following:
+Definition of programming undertaking
+(11) In this section, programming undertaking means
+(a) a programming undertaking, as defined in sub-
+section 2(1) of the Broadcasting Act, that is carried on
+lawfully under that Act;
+(b) a programming undertaking described in para-
+graph (a) that originates programs within a network,
+as defined in subsection 2(1) of the Broadcasting Act;
+or
+(c) a distribution undertaking, as defined in subsec-
+tion 2(1) of the Broadcasting Act, that is carried on
+lawfully under that Act, in respect of the programs
+that it originates.
+For greater certainty, it does not include an online un-
+dertaking, as defined in subsection 2(1) of the Broad-
+casting Act.
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Consequential Amendments
+Canadian Radio-television and Telecommunications Commission Act
+Sections 37-38
+
+Page 50 
+1997, c. 24, s. 18(1)
+39 Subsection 30.9(7) of the Act is replaced by the
+following:
+Definition of broadcasting undertaking
+(7) In this section, broadcasting undertaking means a
+broadcasting undertaking, as defined in subsection 2(1)
+of the Broadcasting Act, that holds a broadcasting li-
+cence issued by the Canadian Radio-television and
+Telecommunications Commission under that Act. For
+greater certainty, it does not include an online undertak-
+ing, as defined in that subsection 2(1).
+2002, c. 26, s. 2(2)
+40 (1) The definition new media retransmitter in
+subsection 31(1) of the Act is replaced by the fol-
+lowing:
+new media retransmitter means a person whose re-
+transmission would be lawful under the Broadcasting
+Act — as that Act read immediately before the day on
+which section 31.1 of that Act comes into force — only by
+reason of the Exemption order for digital media broad-
+casting undertakings, issued by the Canadian Radio-
+television and Telecommunications Commission as the
+appendix to Broadcasting Order CRTC 2012-409, as it
+read immediately before that day; (retransmetteur de
+nouveaux médias)
+(2) The definition new media retransmitter in sub-
+section 31(1) of the Act is repealed.
+2002, c. 26, s. 2(1)
+(3) The definition retransmitter in subsection 31(1)
+of the Act is replaced by the following:
+retransmitter has the meaning assigned by the regula-
+tions; (retransmetteur)
+2002, c. 26, s. 2(3)
+(4) Paragraph 31(3)(a) of the Act is replaced by
+the following:
+(a) defining “retransmitter” for the purposes of this
+section;
+(a.1) defining “local signal” and “distant signal” for
+the purposes of subsection (2); and
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Consequential Amendments
+Copyright Act
+Sections 39-40
+
+Page 51 
+1992, c. 30
+Referendum Act
+41 The portion of subsection 21(1) of the Refer-
+endum Act after paragraph (c) is replaced by the
+following:
+shall, subject to the regulations made pursuant to that
+Act and to the conditions imposed on it under section 9.1
+of that Act, make available, at no cost, to registered refer-
+endum committees for the transmission of referendum
+announcements and other programming produced by or
+on behalf of those committees an aggregate of three
+hours of broadcasting time during prime time.
+42 Subsection 24(2) of the Act is replaced by the
+following:
+Free time not commercial time
+(2) Despite subsection 21(1), the Broadcasting Act, any
+regulations made under that Act and any conditions im-
+posed on a network operator under section 9.1 of that
+Act, free broadcasting time shall not be considered to be
+commercial time.
+2000, c. 9
+Canada Elections Act
+2001, c. 21, s. 17
+43 Subsection 335(1) of the Canada Elections Act
+is replaced by the following:
+Broadcasting time provided to registered parties
+335 (1) In the period beginning on the issue of the writs
+for a general election and ending at midnight on the day
+before polling day, every broadcaster shall, subject to the
+regulations made under the Broadcasting Act and the
+conditions imposed on it under section 9.1 of that Act,
+make available, for purchase by all registered parties for
+the transmission of political announcements and other
+programming produced by or on behalf of the registered
+parties, six and one-half hours of broadcasting time dur-
+ing prime time on its facilities.
+44 Subsection 339(3) of the Act is replaced by the
+following:
+Broadcasting time provided to new eligible parties
+(3) In addition to the broadcasting time to be made
+available under section 335, and within the period re-
+ferred to in that section, every broadcaster shall, subject
+to the regulations made under the Broadcasting Act and
+to the conditions imposed on it under section 9.1 of that
+Act, make available, for purchase by every eligible party
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Consequential Amendments
+Referendum Act
+Sections 41-44
+
+Page 52 
+entitled to broadcasting time under this section, broad-
+casting time in the amount determined under this section
+for the eligible party for the transmission of political an-
+nouncements and other programming produced by or on
+behalf of the eligible party during prime time on that
+broadcaster’s facilities.
+2001, c. 21, s. 18
+45 The portion of subsection 345(1) of the Act be-
+fore paragraph (a) is replaced by the following:
+Free broadcasting time
+345 (1) In the period beginning on the issue of the writs
+for a general election and ending at midnight on the day
+before polling day at that election, every network opera-
+tor shall, subject to the regulations made under the
+Broadcasting Act and to the conditions imposed on it
+under section 9.1 of that Act, make available, at no cost,
+to the registered parties and eligible parties referred to in
+subsection (2), for the transmission of political an-
+nouncements and other programming produced by or on
+behalf of those parties, broadcasting time as determined
+under that subsection if the network formed and operat-
+ed by the network operator
+2019, c. 10
+Accessible Canada Act
+46 Paragraph 42(1)(b) of the Accessible Canada
+Act is replaced by the following:
+(b) the conditions imposed on the regulated entity un-
+der section 9.1 of the Broadcasting Act that relate to
+the identification and removal of barriers and the pre-
+vention of new barriers;
+47 Paragraph 118(3)(a) of the Act is replaced by
+the following:
+(a) a condition imposed under section 9.1 of the
+Broadcasting Act;
+Transitional Provisions
+Definitions
+48 (1) The following definitions apply in this sec-
+tion and sections 49 to 52.
+new Act means the Broadcasting Act as it reads
+as of the royal assent day. (nouvelle loi)
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Consequential Amendments
+Canada Elections Act
+Sections 44-48
+
+Page 53 
+old Act means the Broadcasting Act as it read
+immediately before the royal assent day. (an-
+cienne loi)
+royal assent day means the day on which this Act
+receives royal assent. (date de sanction)
+Words and expressions
+(2) Unless otherwise provided, words and ex-
+pressions used in sections 49 to 52 have the same
+meanings as in the Broadcasting Act.
+Conditions and requirements — deemed order
+49 (1) Each of the following is deemed to be a
+condition imposed under an order, made under
+section 9.1 of the new Act, that applies only with
+respect to a particular licensee:
+(a) a condition of their licence imposed under
+section 9 of the old Act that, as of the royal as-
+sent day, could not be made the subject of an
+order under subsection 11.1(2) of the new Act;
+(b) a requirement imposed on the licensee un-
+der any of paragraphs 9(1)(f) to (h) of the old
+Act.
+Regulations — deemed order
+(2) Any 
+regulation 
+made 
+under 
+paragraph
+10(1)(a) or 10(1)(i) of the old Act is deemed to be
+an order made under section 9.1 of the new Act.
+Expenditures — deemed regulations
+50 (1) The following are deemed to be regula-
+tions made under subsection 11.1(1) of the new
+Act:
+(a) any terms and conditions imposed under
+an order made under subsection 9(4) of the old
+Act that, as of the royal assent day, could be
+the subject of such regulations; and
+(b) any regulations made under subsection
+10(1) of the old Act that, as of the royal assent
+day, could be made under subsection 11.1(1) of
+the new Act.
+Expenditures — deemed order
+(2) Any condition of a licensee’s licence that, as
+of the royal assent day, could be made the subject
+of an order under subsection 11.1(2) of the new
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Transitional Provisions
+Sections 48-50
+
+Page 54 
+Act is deemed to be a provision of such an order
+that applies only with respect to the licensee.
+Section 28
+51 (1) Section 28 of the old Act continues to apply
+with respect to any decision of the Commission
+to issue, amend or renew a licence that is made
+before the royal assent day.
+Interim licences
+(2) A person is not permitted to make a petition
+— and the Governor in Council is not permitted
+to make an order — under subsection 28(1) of the
+new Act with respect to a decision to renew a li-
+cence made by the Commission during the tran-
+sition period if the Commission specifies, in re-
+newing that licence, that it is an interim licence
+and if its term is for no more than one year.
+Definition of transition period
+(3) In subsection (2), transition period means the
+period beginning on the royal assent day and
+ending on the second anniversary of that day.
+Validation of expenditures
+52 (1) The expenditures described in subsection
+(2) are deemed to have been validly required by
+the Commission under the old Act.
+Expenditures
+(2) Subsection (1) applies with respect to the ex-
+penditures — including, for greater certainty, the
+contributions — that were made by a broadcast-
+ing undertaking before the royal assent day un-
+der
+(a) a condition of a licence issued under the
+old Act;
+(b) a term or condition of an order made un-
+der subsection 9(4) of that Act; or
+(c) regulations made under section 10 of that
+Act.
+Review
+Review of Act
+53 (1) During the fifth year after the day on
+which this Act receives royal assent, and during
+the fifth year after a report is submitted under
+subsection (2), a comprehensive review of the
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Transitional Provisions
+Sections 50-53
+
+Page 55 
+amendments to the Broadcasting Act that are
+made by this Act and of their operation must be
+undertaken by the committee of the Senate, of
+the House of Commons or of both Houses of Par-
+liament that is designated or established for that
+purpose.
+Report
+(2) The committee must, within one year after
+the review is undertaken — or within any further
+period that the Senate, the House of Commons or
+both Houses of Parliament, as the case may be,
+authorizes — submit a report on the review to the
+appropriate House or, in the case of a committee
+of both Houses, to each House, that includes a
+statement of any changes that the committee rec-
+ommends.
+Coming into Force
+Order in council
+54 Subsections 40(2) to (4) come into force on a
+day to be fixed by order of the Governor in Coun-
+cil.
+Published under authority of the Speaker of the House of Commons
+2021-2022-2023
+Chapter 8: Online Streaming Act
+Review
+Sections 53-54
+
+Page 56 
+Available on the House of Commons website
+Disponible sur le site Web de la Chambre des com
+
